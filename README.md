@@ -1,7 +1,7 @@
 # cis1-a
 CIS 1-A Students, 
 9/16/2015
-A Twitter hashtag is launched ( #cis1a )for questions and support in addition to our Git hub issues page ->
+A Twitter hashtag is launched ( #cis1a ), also https://twitter.com/hashtag/cis1a?src=hash for questions and support in addition to our Git hub issues page ->
 
 
 9/02/2015
