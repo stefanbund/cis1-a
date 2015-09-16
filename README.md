@@ -1,6 +1,10 @@
 # cis1-a
 CIS 1-A Students, 
+9/16/2015
+A Twitter hashtag is launched for questions and support in addition to our Git hub issues page ->
 
+
+9/02/2015
 Thank you for making excellent effort during the first two weeks to attend lecture. I appreciate this and look forward to working with each of you. 
 
 Each term I am obligated to drop all students who have not attended one hour of lab time in our MLK facility. I will do so Sunday evening. 
