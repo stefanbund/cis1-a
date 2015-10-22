@@ -1,10 +1,10 @@
 # cis1-a
 CIS 1-A Students, 
-9/16/2015
-A Twitter hashtag is launched ( #cis1a ), also https://twitter.com/hashtag/cis1a?src=hash for questions and support in addition to our Git hub issues page ->
+###Mid Term Writing Assignment
+Please view the Mid Term, posted here. 
 
 
-9/02/2015
+###9/02/2015
 Thank you for making excellent effort during the first two weeks to attend lecture. I appreciate this and look forward to working with each of you. 
 
 Each term I am obligated to drop all students who have not attended one hour of lab time in our MLK facility. I will do so Sunday evening. 
@@ -20,7 +20,7 @@ Stefan
 
 cis1-a, Riverside City College Fall 2015
 
-Welcome to CIS 1-A!
+###Welcome to CIS 1-A!
 This class is a stepping stone to all academic goals here at RCC. We invite all students looking to transfer and succeed throughout the US college system to enroll and take this class. (We encourage you to persist, also, and stay enrolled, also...)
 
 This course derives data from the questionnaire on stress management, located at: 
