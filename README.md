@@ -2,7 +2,9 @@
 ##ANNOUNCEMENTS
 
 ###Mid Term Writing Assignment
-Please view the Mid Term, posted here. You will attend class then take class time to write your mid term, then post it later to git hub. Please have this complete by mid night, the first day of class during the week of November 2nd, 2015.
+Please view the Mid Term, posted here. You will attend class then take class time to write your mid term, then post it later to git hub or dropbox. Students will send the Instructor a link to their mid term document via email, stefan dot bund at rccd dot edu.
+
+Please have this complete by mid night, the first day of class during the week of November 2nd, 2015.
 
 
 ###9/02/2015
